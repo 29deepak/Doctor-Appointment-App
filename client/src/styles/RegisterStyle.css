@@ -1,0 +1,15 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.register-form {
+    border: 1px solid black;
+    width: 35%;
+    padding: 30px;
+}
+
+.d {
+    text-align: center;
+}
